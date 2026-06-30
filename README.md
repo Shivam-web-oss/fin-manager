@@ -5,7 +5,7 @@ FinTrack Pro is a modern, lightweight **Personal Finance Tracker** built using p
 
 The application runs entirely in the browser and handles data persistence using the **Local Storage API**, eliminating the need for any backend server, databases, or user authentication.
 
-🌐 **[Live Demo]([https://shivam-web-oss.github.io/fin-manager])** 
+🌐 **[Live Demo]((https://shivam-web-oss.github.io/fin-manager))** 
 
 ---
 
