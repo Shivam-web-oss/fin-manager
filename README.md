@@ -5,7 +5,7 @@ FinTrack Pro is a modern, lightweight **Personal Finance Tracker** built using p
 
 The application runs entirely in the browser and handles data persistence using the **Local Storage API**, eliminating the need for any backend server, databases, or user authentication.
 
-🌐 **[Live Demo](https://project-hi85m.vercel.app/)** | 📚 **[Project Documentation](https://drive.google.com/file/d/17PYPaOj1A2cw33jJ0k9gX7rTFtriDs3t/view?usp=drive_link)**
+🌐 **[Live Demo]([https://shivam-web-oss.github.io/fin-manager])** 
 
 ---
 
@@ -31,15 +31,6 @@ The application runs entirely in the browser and handles data persistence using 
 *   **Core Logic:** JavaScript (ES6+ Vanilla DOM Manipulation)
 *   **Data Persistence:** Web Storage API (`localStorage`)
 
----
-
-## 🚀 Getting Started
 
 ### Prerequisites
 All you need is a modern web browser (Chrome, Edge, Safari, Firefox). No installation of Node.js or npm packages is required.
-
-### Installation & Local Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/FinTrack-Pro.git](https://github.com/YOUR_USERNAME/FinTrack-Pro.git)
